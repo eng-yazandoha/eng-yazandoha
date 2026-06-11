@@ -130,13 +130,13 @@ When I'm not developing software, I'm usually:
 
 ### Contact
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [yazanabudoha@gmail.com](mailto:yazanabudoha@gmail.com)
 
 GitHub:
-https://github.com/yourusername
+https://github.com/eng-yazandoha
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/yazan-abu-doha-808437212/
 
 ```
 "Build systems that survive growth."
