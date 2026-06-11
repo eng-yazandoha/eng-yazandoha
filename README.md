@@ -160,7 +160,6 @@ interface Engineer {
 **`─── DATA LAYER ───`**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 **`─── ARCHITECTURE & SYSTEMS ───`**
@@ -232,7 +231,7 @@ interface Engineer {
 ║  ► Mobile Applications       ║
 ║  ► Enterprise Software       ║
 ║  ► Automation Workflows      ║
-║  ► Inventory & ERP Logic     ║
+║                              ║
 ║                              ║
 ╚══════════════════════════════╝
 ```
@@ -431,22 +430,14 @@ I build for real operators: cashiers processing hundreds of transactions, manage
 </div>
 
 <br/>
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yazan-abudoha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yazan-abudoha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eng-yazandoha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=eng-yazandoha&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b949e" />
 </div>
-
 <br/>
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan-abudoha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-yazandoha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
 </div>
-
 <br/>
 
 ---
@@ -529,9 +520,9 @@ const objectives = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazan-abudoha)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yazan-abudoha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazan@abudoha.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-abu-doha-808437212/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eng-yazandoha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazanabudoha@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://abudoha.dev)
 
 </div>
